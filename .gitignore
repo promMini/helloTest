@@ -1,0 +1,29 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.venv*/
+.venv_test/
+.venv_test2/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# compiled files
+*.egg-info/
+dist/
+build/
